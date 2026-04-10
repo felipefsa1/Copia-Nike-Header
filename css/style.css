@@ -1,0 +1,16 @@
+*{
+
+}
+.Header1{
+
+      width: 1200px; /*tamanho do header */
+    padding:  8px 0px; /* ativa o espaço interno*/
+    display: flex; /* ativa o flexbox*/
+    margin: 0 auto; 
+    gap: 36px; /* espaçamento entre os itens*/
+    justify-content: space-between;
+    
+}
+.Header2{
+    
+}
